@@ -21,7 +21,6 @@ If you find this project intriguing, don't forget to give it a ⭐️!
 
 <img width="300" height="250" alt="Screenshot 5" src="https://github.com/AnujaBhise/CyberFiction/assets/96904529/7e79d30d-db88-46c2-a4ff-fa817e8a7954">
 
-<img width="300" height="250" alt="Screenshot 6" src="https://github.com/AnujaBhise/CyberFiction/assets/96904529/ed93b046-630d-4fb3-9c03-75eebbfad79f">
 
 
 </div>
